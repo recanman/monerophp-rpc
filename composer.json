@@ -4,6 +4,7 @@
     "keywords": ["monero", "monero-wallet-rpc", "monero daemon","sdk", "api", "client"],
     "homepage": "https://github.com/monero-integrations/monerophp-rpc",
     "type": "library",
+    "version": "0.9.9",
     "license": "MIT",
     "authors": [
         {
